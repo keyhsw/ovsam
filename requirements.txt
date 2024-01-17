@@ -1,5 +1,5 @@
 -f https://download.openmmlab.com/mmcv/dist/cu121/torch2.1.0/index.html
-
+gradio==4.7.1
 torch==2.1.2
 torchvision
 mmengine==0.10.2
