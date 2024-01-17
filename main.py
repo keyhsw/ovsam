@@ -14,7 +14,7 @@ from ext.class_names.lvis_list import LVIS_CLASSES
 
 from openxlab.model import download
 #download model
-download(model_repo='houshaowei/ovsam', model_name='sam2clip_vith_rn50', output='/models')
+download(model_repo='houshaowei/ovsam', model_name='sam2clip_vith_rn50', output='models')
 
 LVIS_NAMES = LVIS_CLASSES
 
